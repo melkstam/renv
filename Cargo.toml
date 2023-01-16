@@ -1,7 +1,7 @@
 [package]
 name = "renv"
 description = "Print your environment variables"
-categories = ["command-line-utilitiess"]
+categories = ["command-line-utilities"]
 respoitory = "https://github.com/melkstam/renv"
 version = "0.1.0"
 edition = "2021"
